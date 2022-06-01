@@ -1,0 +1,3 @@
+import ripper
+
+ripper.Ripper()
